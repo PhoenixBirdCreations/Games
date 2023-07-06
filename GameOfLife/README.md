@@ -9,4 +9,6 @@ The initial condition can be set in the body of the script. Some cool basic patt
 
 Cells can reproduce infinetly, but only the ones within the coordinates of the image will show.
 
+The script finishes if there are no alive cells. Otherwise, the execution continues until terminated by the user.
+
 ![Screenshot_20230706_155558](https://github.com/PhoenixBirdCreations/Games/assets/55663736/020839b5-142e-45dc-a4ab-98e98438de64) ![Screenshot_20230706_155638](https://github.com/PhoenixBirdCreations/Games/assets/55663736/b0acb456-7460-4a52-867e-1bda8cac2611)
